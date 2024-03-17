@@ -31,7 +31,9 @@ Through these challenges, I was able to gain a better understanding of Database,
 
 Overall, this project was a great learning experience for me and helped me grow as a developer. 
 
-I would like to add an editing function later to this app. 
+
+In future I would like to add an editing function later to this app. 
+
 
 ## Demo
 
